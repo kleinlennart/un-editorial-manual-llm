@@ -1,0 +1,30 @@
+---
+title: "UN Editorial Manual · LLM-ready"
+subtitle: "The United Nations Editorial Manual as clean Markdown, llms.txt and (soon) AI assistant kits"
+toc: false
+---
+
+::: {.callout-warning appearance="simple"}
+**Unofficial resource.** Not produced or endorsed by the United Nations. Content reproduced from the [United Nations Editorial Manual](https://www.un.org/dgacm/en/content/editorial-manual), © United Nations. Always check the source.
+:::
+
+The [United Nations Editorial Manual Online](https://www.un.org/dgacm/en/content/editorial-manual) is the authoritative statement of the style to be followed in drafting, editing and reproducing UN documents. This site mirrors it **verbatim** in a form that AI assistants and agents can read reliably:
+
+- Every page is also available as plain **Markdown**. Add `.md` to the page path, or use the "Markdown" link at the top of each page.
+- [**`llms.txt`**](llms.txt) is an index of all pages, following the [llms.txt](https://llmstxt.org/) convention.
+- [**`llms-full.txt`**](llms-full.txt) is the whole manual in one file, ready to attach to a chat or load into an agent.
+
+## How it is made
+
+- **Deterministic.** Pages are converted from un.org HTML by code. No AI rewrites the text.
+- **Traceable.** Each page links to its un.org source and shows when its content last changed upstream.
+- **Kept in sync.** A weekly job re-checks un.org, and changes are reviewed before publishing, alongside the manual's own [updates log](en/updates.md).
+
+## Coming next
+
+- A **Microsoft Copilot** agent kit for UN staff
+- An **Agent Skill** for Claude, Copilot, Codex, Cursor and others
+- A **style checker** (spelling list, abbreviations, capitalization)
+- An **MCP server**
+
+Source code and roadmap: [GitHub](https://github.com/kleinlennart/un-editorial-manual-llm).

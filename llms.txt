@@ -1,0 +1,71 @@
+# United Nations Editorial Manual
+
+> Markdown mirror of the United Nations Editorial Manual Online, the authoritative statement of the style to be followed in drafting, editing and reproducing United Nations documents, publications and other written material (spelling, capitalization, abbreviations, numbers, footnotes, document formats). Unofficial resource. Not produced or endorsed by the United Nations. Content reproduced from the United Nations Editorial Manual (un.org/dgacm/en/content/editorial-manual), © United Nations. Always check the source.
+
+Usage notes:
+
+- Each link points to a verbatim Markdown copy of one manual page; the `source_url` in its front matter is the canonical un.org page.
+- The online Oxford Dictionary (British English) is the spelling authority; the Spelling page lists United Nations preferences and exceptions.
+- Mirror of the English manual. Last upstream content change: 2026-11-15.
+- All pages in one file: [llms-full.txt](https://kleinlennart.github.io/un-editorial-manual-llm/llms-full.txt)
+
+## Editorial guidelines
+
+- [Instructions for the preparation of official documents](https://kleinlennart.github.io/un-editorial-manual-llm/en/instr-prep-docs.md): Editorial directive ST/CS/SER.A/45 sets out the Secretariat policy on the preparation of documents.
+- [Country names and currencies](https://kleinlennart.github.io/un-editorial-manual-llm/en/country-names.md): Country names and currencies are listed in the United Nations Multilingual Terminology Database (UNTERM).
+- [Footnotes and other references](https://kleinlennart.github.io/un-editorial-manual-llm/en/footnotes/index.md)
+- [Footnotes and other references: I. Introduction](https://kleinlennart.github.io/un-editorial-manual-llm/en/footnotes/chap-01.md): Footnotes and text notes (references given in parentheses within the text) are used:
+- [Footnotes and other references: II. General instructions on footnotes and text notes](https://kleinlennart.github.io/un-editorial-manual-llm/en/footnotes/chap-02.md): Footnotes to items in the text are placed at the bottom of the page.
+- [Footnotes and other references: III. United Nations sources](https://kleinlennart.github.io/un-editorial-manual-llm/en/footnotes/chap-03.md): The instructions and examples given below apply to sources cited in footnotes and text notes.
+- [Footnotes and other references: IV. Outside sources](https://kleinlennart.github.io/un-editorial-manual-llm/en/footnotes/chap-04.md): The instructions and examples given below apply to sources cited in footnotes and text notes.
+- [Footnotes and other references: V. Repeated references](https://kleinlennart.github.io/un-editorial-manual-llm/en/footnotes/chap-05.md): A reference is given the first time that a source or item is mentioned in the text.
+- [Footnotes and other references: VI. Permission footnotes](https://kleinlennart.github.io/un-editorial-manual-llm/en/footnotes/chap-06.md): When quoting more than a few paragraphs or reproducing tables and graphic material from a work in copyright, the author must obtain permission to reprint from the copyright owner.
+- [Footnotes and other references: VII. Explanatory footnotes](https://kleinlennart.github.io/un-editorial-manual-llm/en/footnotes/chap-07.md): Explanatory footnotes provide additional information on or clarification of statements made in the text.
+- [Footnotes and other references: VIII. Cross references](https://kleinlennart.github.io/un-editorial-manual-llm/en/footnotes/chap-08.md): Cross references refer readers to information contained in another part of the same text.
+- [Footnotes and other references: IX. Footnote indicators](https://kleinlennart.github.io/un-editorial-manual-llm/en/footnotes/chap-09.md): Every footnote has a corresponding footnote indicator – a number, lower-case letter or asterisk or other symbol – typed in superscript in the text.
+- [Footnotes and other references: X. Reference lists and bibliographies](https://kleinlennart.github.io/un-editorial-manual-llm/en/footnotes/chap-10.md): Reference lists and bibliographies are placed at the end of the text, normally after any annexes.
+- [Policy questions](https://kleinlennart.github.io/un-editorial-manual-llm/en/policy-questions.md): Links on this page will connect you to policy documents that may be of interest to authors and editors, including editorial directives and documents in the series “Regulations for…
+
+## Format
+
+- [Headings and subheadings](https://kleinlennart.github.io/un-editorial-manual-llm/en/headings.md): All headings at a given level should have a similar grammatical structure and follow a logical hierarchy.
+- [Maps and figures, including photographs](https://kleinlennart.github.io/un-editorial-manual-llm/en/maps.md): Maps and figures (charts, graphs and photographs) are the only types of non-textual elements that may be considered for inclusion in United Nations documents.
+- [Mastheads and cover pages](https://kleinlennart.github.io/un-editorial-manual-llm/en/mast-cover.md): All documents other than publications and supplements to the official records bear a masthead identifying the organ to which it is submitted and giving the document symbol,…
+- [Paragraphs and subparagraphs](https://kleinlennart.github.io/un-editorial-manual-llm/en/para-subpara.md): To ensure that references and cross-references are identical in all language versions, the paragraphs are normally numbered consecutively, with arabic numerals.
+- [Tables](https://kleinlennart.github.io/un-editorial-manual-llm/en/tables.md): This section provides information on how to organize tabular material.
+
+## Style
+
+- [Abbreviations](https://kleinlennart.github.io/un-editorial-manual-llm/en/abbreviations.md): Abbreviations, including acronyms (e.g. UNESCO), should be used sparingly.
+- [Capitalization in English](https://kleinlennart.github.io/un-editorial-manual-llm/en/capitalization.md): Use initial capital letters sparingly, according to the general rules set out below.
+- [Indirect or reported speech](https://kleinlennart.github.io/un-editorial-manual-llm/en/indirect-speech.md): Indirect speech conveys a report of something that was said or written rather than the exact words that were spoken or written.
+- [Italics and bold print](https://kleinlennart.github.io/un-editorial-manual-llm/en/italics.md): Italics are used for the following:
+- [Resolutions and other formal decisions of United Nations organs](https://kleinlennart.github.io/un-editorial-manual-llm/en/res-dec-draft-edit.md): They are given limited distribution and are issued with an /L.
+- [Numbers, dates and time](https://kleinlennart.github.io/un-editorial-manual-llm/en/numbers-dates-time.md): Numbers under 10 are generally expressed in words:
+- [Punctuation](https://kleinlennart.github.io/un-editorial-manual-llm/en/punctuation.md): The following is a brief guide to usage with regard to punctuation.
+- [Sources of information: print](https://kleinlennart.github.io/un-editorial-manual-llm/en/printref.md): The following references may be helpful to editors and authors.
+- [Quotations](https://kleinlennart.github.io/un-editorial-manual-llm/en/quotations.md): Direct quotations should reproduce the original text exactly and should be carefully checked for accuracy.
+- [Spelling](https://kleinlennart.github.io/un-editorial-manual-llm/en/spelling.md): The online Oxford Dictionary (https://premium.oxforddictionaries.com/english/) (set to British English) is the current authority for spelling in the United Nations.
+
+## Basic documents
+
+- [Addenda](https://kleinlennart.github.io/un-editorial-manual-llm/en/addenda.md): An addendum is an addition to a previously circulated document (report, note, agenda, draft resolution, communication).
+- [Communications](https://kleinlennart.github.io/un-editorial-manual-llm/en/communications.md): A communication from a Member State in the form of a letter or a note verbale may be circulated at the request of the Member State as a document of a principal organ – the General…
+- [Corrigenda and reissues](https://kleinlennart.github.io/un-editorial-manual-llm/en/corrigenda.md): A corrigendum is a document issued to correct an error or errors in a document or publication that has already been issued.
+- [Documents relating to agendas of principal organs](https://kleinlennart.github.io/un-editorial-manual-llm/en/docs-agendas.md): The earliest form of the draft agenda, issued in mid-February.
+- [Documents relating to programme budget implications](https://kleinlennart.github.io/un-editorial-manual-llm/en/pbis.md): According to rule 153 of the rules of procedure, no resolution involving expenditure may be recommended by a committee for approval by the General Assembly unless it is…
+- [Notes by the Secretary-General](https://kleinlennart.github.io/un-editorial-manual-llm/en/notes-sg.md): A note by the Secretary-General is issued to transmit to a major organ a document not prepared in the Secretariat, or to transmit information or comments.
+- [Reports of intergovernmental and expert bodies](https://kleinlennart.github.io/un-editorial-manual-llm/en/reports-intergov-bodies.md): Reports should be action-oriented and limited to:
+- [Resolutions and other formal decisions of United Nations organs](https://kleinlennart.github.io/un-editorial-manual-llm/en/res-dec-index.md): United Nations resolutions are formal expressions of the opinion or will of United Nations organs.
+- [Resolutions and other formal decisions of United Nations organs](https://kleinlennart.github.io/un-editorial-manual-llm/en/res-dec-sys-ident.md): United Nations resolutions are identified by the name of the issuing body, written in full, and a number, according to the systems described below.
+
+## Sources of information
+
+- [Sources of information](https://kleinlennart.github.io/un-editorial-manual-llm/en/onlineref.md)
+
+## Optional
+
+- [About United Nations editors](https://kleinlennart.github.io/un-editorial-manual-llm/en/abouteditors.md): The quality of the Organization’s documents and publications plays a key role in maintaining its reputation for serious, impartial, transparent and accurate reporting, and in…
+- [Contact the editors](https://kleinlennart.github.io/un-editorial-manual-llm/en/contact.md): The English Translation and Editorial Service in New York maintains this website.
+- [United Nations Editorial Manual Online](https://kleinlennart.github.io/un-editorial-manual-llm/en/index.md): The United Nations Editorial Manual Online is intended to serve as an authoritative statement of the style to be followed in drafting, editing and reproducing United Nations…
+- [Updates](https://kleinlennart.github.io/un-editorial-manual-llm/en/updates.md)
