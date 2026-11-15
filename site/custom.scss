@@ -1,0 +1,15 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+$primary: #009edb !default;
+$link-color: #0077b8 !default;
+$font-family-sans-serif: "Roboto", system-ui, -apple-system, "Segoe UI", Arial, sans-serif !default;
+
+/*-- scss:rules --*/
+.source-note {
+  font-size: 0.875rem;
+  border-left: 3px solid $primary;
+  padding: 0.5rem 0.75rem;
+  margin-bottom: 1.5rem;
+  opacity: 0.9;
+}

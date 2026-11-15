@@ -1,0 +1,1850 @@
+---
+title: Spelling
+group: Style
+source_url: https://www.un.org/dgacm/en/content/editorial-manual/spelling
+last_changed: '2026-11-15'
+sha256: 8150e7a48827d5a7e5c4a55cb069fe45188f8aff185c46edb79f5f58fb8cae4d
+disclaimer: Unofficial mirror. © United Nations. Always check the source_url.
+---
+
+# Spelling
+
+[**Printer-friendly version**](https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/spell_print_oct2026.pdf)
+
+The online Oxford Dictionary [(**https://premium.oxforddictionaries.com/english/**](https://premium.oxforddictionaries.com/account/login)) (set to British English) is the current authority for spelling in the United Nations. If more than one spelling is given in the dictionary, use the form listed first unless otherwise indicated below. *The Concise Oxford English Dictionary*, twelfth edition, is an acceptable alternative.
+
+The United Nations spelling list is designed to serve as a quick reference for common words and compounds for which there may be more than one possible spelling. Words commonly used in United Nations documents are also included in the list for ease of reference. For further guidance, see also [***Abbreviations and acronyms***](abbreviations.md) and [***Capitalization in English***](capitalization.md).
+
+Foreign words listed in the online Oxford Dictionary or included in the list below are not italicized in United Nations documents. Foreign words that are not listed in that edition or included in the list, however, are italicized.
+
+Non-English names of organizations, firms, ministries and the like are not italicized.
+
+Fractions expressed in words are not hyphenated (e.g. one third of the total) unless they are used as adjectives (e.g. one-third share).
+
+The abbreviation “adj.” is used to indicate compound adjectives that are hyphenated when they precede a noun (e.g. She had a fixed-term contract). Otherwise they are normally not hyphenated (e.g. The contract was for a fixed term).
+
+Compound adjectives in which the first word ends in –ly are not hyphenated (e.g. environmentally sustainable growth).
+
+*Notes*:\
+\* Indicates a change from previous practice.\
+\*\* Indicates an exception to the online Oxford Dictionary.\
+\*\*\* Indicates both a change from previous practice and an exception to the online Oxford Dictionary.
+
+## A {#a}
+
+- above-mentioned
+- abridgement
+- acknowledgement
+- addenda
+- ad hoc
+- ad infinitum
+- ad litem
+- adviser
+- aeroplane
+- aesthetic
+- aforementioned
+- Afrodescendant (noun) (preferred: person of African descent)
+- Afrodescendent (adj.) (preferred: of African descent)
+- after: compound forms are closed except:
+  - after-effect
+  - after-image
+  - after-service
+- age-appropriate (adj.)
+- ageing
+- ageism
+- age-selective (adj.)
+- age-specific (adj.)
+- agribusiness
+- \*\*agrifood
+- agriscience
+- agritourism
+- agroecological
+- agroecosystem
+- agroforestry
+- agro-industry
+- agropastoral
+- agroprocessing
+- agroterrorism
+- aides-memoires
+- AIDS (acquired immunodeficiency syndrome)
+- airbag
+- air conditioner, air conditioning (noun)
+- air-conditioned, air-conditioning (adj.)
+- aircraft (singular and plural)
+- aircrew
+- airdrop
+- airfare
+- airfield
+- airfreight
+- airlift
+- air raid
+- airspace
+- air strike
+- air traffic control
+- AK-47
+- allot, allotted, allotment
+- \*\*Al-Qaida
+- aluminium
+- amid (not “amidst”)
+- among (not “amongst”)
+- anaemia
+- anaesthetic
+- analogue (but analog in computer technology)
+- analyse
+- antenatal
+- antennae (insects)
+- antennas (aerials)
+- anti-abortion
+- anti-aircraft
+- antifertility
+- anti-inflammatory
+- antimalarial
+- antimicrobial
+- anti-money-laundering (adj.; not to be used as a noun)
+- anti-poverty
+- \*\*antisemitism
+- \*\*anti-terrorism
+- apartheid
+- a posteriori
+- appal, appalled, appalling
+- appendices
+- a priori
+- armoury
+- artefact
+- Assistant Secretary-General (plural: Assistant Secretaries-General)
+- \*\*\*asylum-seeker
+- asylum-seeking (adj.)
+- attaché
+- attorney general
+- audiobook
+- \*audiovisual
+- auditor general
+- avant-garde
+- awareness-raising (noun and adj.)
+- ayatollah
+
+## B {#b}
+
+- \*Baath Party, Baathist
+- baby boom (noun)
+- \*\*baby-boom (adj.)
+- back-calculation procedure
+- backstop (verb and noun)
+- back up (verb)
+- backup (noun and adj.)
+- backward (adj.)
+- backwards (adv.)
+- balance of payments (noun)
+- balance-of-payments (adj.)
+- balance sheet
+- bandwidth
+- baseline
+- base-year (adj.)
+- bednet
+- Bedouin (singular and plural)
+- beforehand
+- behaviour
+- behove
+- benefited, benefiting
+- benefit-sharing
+- bi: compound forms are closed (see also "Ambiguous terms" under Numbers, dates and time):
+  - biannual (twice a year)
+  - biennial (every second year)
+  - \*\*bienniums
+  - bimonthly (every two months)
+  - biweekly (every two weeks)
+- biased
+- bio: compound forms are closed
+- birth control
+- birth rate
+- bis
+- bitcoin
+- BlackBerry
+- blacklist (verb and noun)
+- blockchain
+- blood-borne
+- blood-brain barrier
+- bond market
+- bookkeeping
+- bottleneck
+- brain drain
+- break away (verb)
+- breakaway (noun and adj.)
+- break down (verb)
+- breakdown (noun)
+- breakthrough
+- break up (verb)
+- break-up (noun)
+- breastfeed
+- bride price
+- bride wealth
+- Brigadier General
+- broad band, broad banding (verb and noun, in ICSC documents)
+- broad-banded, broad-banding (adj., in ICSC documents)
+- broadband (telecommunications)
+- build up (verb)
+- build-up (noun)
+- bureaux
+- burka
+- burned (not “burnt”)
+- \*\*businessperson
+- buy-back (noun)
+- buy-in (noun)
+- by-catch
+- by-law
+- by-product
+- bystander
+
+## C {#c}
+
+- calibre
+- cancelled, cancelling
+- canvas (cloth)
+- canvass (to solicit)
+- capacity-building (noun and adj.)
+- capacity development (noun)
+- capacity-development (adj.)
+- capital (city, money)
+- Capitol (building)
+- caregiver
+- care provider
+- caretaker
+- CarLog
+- carry over (verb)
+- carry-over (noun and adj.)
+- carte blanche
+- carve out (verb)
+- carveout (noun)
+- case-by-case (adj.)
+- \*\*case-fatality rate
+- case law
+- caseload
+- case study
+- cash flow (noun)
+- \*\*cash-flow (adj.)
+- catalogue
+- catalyse
+- cathode ray tube
+- CD-ROM
+- ceasefire (noun and adj.)
+- cellmate
+- cell phone
+- cellular phone
+- centre, centred, centring
+- centrepiece
+- chador
+- Chair-designate
+- changeover (noun)
+- channelled, channelling
+- chapeau
+- \*chargeback
+- chargé d'affaires (singular invariable;
+  - plural: chargés d’affaires)
+- chat room
+- checklist
+- checkpoint
+- check-up (noun)
+- chef de cabinet (plural: chefs de cabinet)
+- cheque (bank)
+- chequebook
+- childbearing
+- childbirth
+- childcare
+- child-rearing
+- child-sensitive
+- child spacing
+- chlorofluorocarbons
+- citywide
+- classroom
+- clearing house (n); clearing-house (adj.)
+- closed-end (adj.)
+- co-chair (see also entry under Capitalization)
+- coequal
+- coexist
+- cofactor
+- cogeneration
+- cohort-component projections
+- cold war
+- co-locate
+- colloquiums
+- colour
+- combatant
+- combated, combating
+- \*\*Commissioner-General
+- common law (noun)
+- common-law (adj.)
+- communiqué
+- comorbidity
+- compel, compelled
+- compendiums
+- confidence-building (noun and adj.)
+- connection
+- consensus
+- consensus-building
+- \*\*consortiums
+- constitution-making
+- contingent-owned equipment
+- contraceptive-calendar method
+- convener
+- cookstove
+- cooperate, cooperation
+- coordinate, coordination
+- co-payment
+- copy-edit
+- copy editor
+- cornerstone
+- corrigenda
+- cost accounting
+- cost-effective
+- cost-efficient
+- cost-of-living index
+- cost recovery (noun)
+- cost-recovery (adj.)
+- cost-sharing
+- councillor
+- counsel (verb and noun, singular and plural)
+- counselling, counsellor
+- counteract
+- \*counterargument
+- counter-attack
+- counterbalance
+- countercharge
+- counterclaim
+- counterclockwise
+- counterculture
+- countercyclical
+- counterdemonstration
+- counter-espionage
+- counter-example
+- counter-guarantee
+- counter-insurgency
+- counter-intelligence
+- counter-intuitive
+- countermeasure
+- \*\*counter-narcotics
+- counteroffensive
+- counterpoint
+- counterproductive
+- counterproliferation
+- counterproposal
+- counter-revolution
+- counterspace
+- \*\*counter-terrorism
+- countertrade
+- counter-urbanization
+- countryside
+- countrywide
+- coup d'état (plural: coups d'état)
+- couple-years
+- co-worker
+- credentialled, credentialling
+- creditworthiness
+- cropland
+- cross-country
+- cross-cutting
+- cross-reference (verb and noun\*\*)
+- cross section
+- cross-sectoral
+- cross-tabulation
+- crowdsource, crowdsourced, crowdsourcing
+- crowdwork, crowdworker, crowdworking
+- crypto: compound forms are closed
+- curricula
+- curriculum vitae (plural: curricula vitae)
+- cut back (verb)
+- cutback (noun)
+- cut off (verb)
+- cut-off (noun and adj.)
+- cyber: compound forms are closed for nouns only
+
+## D {#d}
+
+- \*\*Da’esh
+- darknet
+- databank
+- database
+- data-collection (adj.)
+- data processing (noun)
+- data-processing (adj.)
+- data processor
+- data set
+- data-sharing
+- day care (noun)
+- day-care (adj.)
+- \*dead weight
+- \*\*deafblind
+- death rate
+- decies or deciens
+- decision maker
+- decision-making (noun and adj.)
+- de-emphasize
+- de facto
+- defence (but United States Department of Defense, Israel Defense Forces)
+- de jure
+- delink
+- \*delist
+- demagogy
+- démarche
+- demining
+- demographic-economic model
+- dependant (noun)
+- dependent (adj.)
+- depositary (person or entity with which a treaty is deposited)
+- depository (warehouse)
+- derestricted
+- de-risk
+- desiccate
+- desktop
+- détente
+- diarrhoea
+- dieback (noun)
+- digitalize (adapt a system or a process)
+- digitize (convert material into a digital format)
+- diktat
+- \*Director General (plural: Directors General) (but Director-General of the United Nations Offices at Geneva, Vienna and Nairobi)
+- disc (but disk in computer technology)
+- discreet (prudent)
+- discrete (separate)
+- dispatch
+- donor dependence
+- donor-dependent (adj.)
+- donor-funded (adj.)
+- dot-com
+- dot-org
+- doubling time
+- down payment
+- downstream
+- downward (adj. and adv.)
+- draft (text)
+- draught (air and animal)
+- draw down (verb)
+- drawdown (noun)
+- drift net (noun)
+- drift-net (adj.)
+- drinking water
+- drop out (verb)
+- dropout (noun and adj.)
+- drug dealer
+- drug dealing
+- drug-taking
+- drug trafficking
+- drug user
+- drug-using (adj.)
+- dry land (land as opposed to sea)
+- dryland(s) (type of ecosystem)
+- \*\*dunum
+- duty bearer
+- dwelling unit
+- dysfunctional
+
+## E {#e}
+
+- e-: compound forms are hyphenated, except:
+  - \*email
+- and where the second element begins with a capital letter:
+  - eDoc
+  - eLUNa
+  - eMeets
+  - ePAS
+  - eRef
+- early-initiation (adj.)
+- early warning system
+- earmark
+- east(ern) (a geographical direction or an area within a country)
+- East(ern) (a major region, e.g. East Africa, Eastern Europe)
+- east-north-east, east-south-east
+- eastward
+- eco-friendly
+- eco-label, eco-labelling
+- ecosystem
+- ecotourism
+- eco-warrior
+- ecozone
+- Eid al-Adha
+- Eid al-Fitr
+- eldercare
+- \*email
+- embargoes
+- émigré
+- emir
+- encyclopedia
+- endeavour
+- endogenization
+- end product
+- end result
+- \*end user (noun)
+- end-user (adj.)
+- energy-efficient
+- enquire, enquiry (referring to a request for
+  - information) (cf. inquire)
+- enrol, enrolled, enrolling, enrolment
+- en route
+- enterprise resource planning (not hyphenated)
+- equalled, equalling
+- equipped, equipping
+- euro, euros
+- Eurobond
+- \*eurozone
+- ever-married (adj.)
+- everyday (adj.)
+- every day (adv.)
+- exaggerate
+- Excel
+- ex gratia
+- ex officio
+- exorbitant
+- expel, expelled, expelling
+- export-processing zone
+- exposé
+- ex post facto
+- extrabudgetary
+- \*\*\*extracurricular
+- extrajudicial
+- extralegal
+- extramarital
+- extranet
+- extraregional
+- extraterritorial
+- \*extrauterine
+- eyewitness
+
+## F {#f}
+
+- fact-finding
+- fact sheet
+- fait accompli
+- fall-off (noun)
+- fall out (verb)
+- fallout (noun)
+- family-life (adj.)
+- family planning (noun and adj.)
+- farmland
+- far-reaching
+- favour
+- feedback
+- \*fetus, fetal
+- fibreglass
+- fibre-optic (adj.)
+- fibre optics (noun)
+- field trip
+- fieldwork, fieldworker
+- fine-tune
+- firearm
+- firebomb
+- fire-control (adj.)
+- fire engine
+- firefight
+- firefighter
+- firefighting
+- firehouse
+- first-hand (adj. and adv.)
+- fixed-period (adj.)
+- fixed-wing (adj.)
+- flak
+- flash flood
+- flavour
+- flexitime (generic)
+- Flextime (attendance system)
+- flow chart
+- flowsheet
+- focused, focuses, focusing
+- follow through (verb)
+- follow-through (noun)
+- follow up (verb)
+- follow-up (noun and adj.)
+- foodgrain
+- food-insecure
+- foodstuff
+- footnote
+- force majeure
+- forcible
+- foregoing (preceding)
+- forest lands
+- forever
+- foreword (to a book)
+- forgo (go without)
+- formulas
+- forums
+- forward (verb, adj. and adv.)
+- freedom fighter
+- freelance, freelancer
+- free trade (noun and adj.)
+- \*fresh water (noun)
+- freshwater (adj.)
+- front line (noun)
+- front-line (adj.)
+- fuelled, fuelling
+- fuelwood
+- fulfil, fulfilled, fulfilling, fulfilment
+- full-time
+- fundraiser
+- \*fundraising
+
+## G {#g}
+
+- gauge
+- gData
+- gDoc
+- gender-diverse
+- gender-neutral
+- gender-responsive
+- gender-specific
+- geo: compound forms are closed
+- girl child
+- globalization
+- globalize
+- gMeets
+- good-neighbourly (adj.)
+- goodwill
+- gonorrhoea
+- gram
+- grant-in-aid (plural: grants-in-aid)
+- grassland(s)
+- grass roots (noun)
+- grass-roots (adj.)
+- grey
+- grounds pass
+- groundwater
+- groundwork
+- gText
+- \*\*guardrail
+- guerrilla
+- guidelines
+- gunfire
+- gynaecology
+
+## H {#h}
+
+- haemoglobin
+- haemorrhage
+- hajj (note: “hajj pilgrimage” is redundant)
+- halfway
+- hand grenade
+- handheld
+- Haram al-Sharif
+- harbour
+- hard-walled (adj.)
+- hardwired
+- hashtag
+- hawala
+- headwater
+- \*healthcare (noun and adj.)
+- help desk
+- helpline
+- heretofore
+- herpesvirus
+- high-mortality-risk (adj.)
+- HIV (human immunodeficiency virus)
+- HIV-positive
+- \*\*Hizbullah
+- home care (noun)
+- home-care (adj.)
+- home-made
+- homeowner
+- homeownership
+- home page
+- homeschool
+- homogeneous
+- honorariums
+- honorary
+- honour
+- hostage-taking
+- hot-desking
+- hotelling
+- hotspot
+- human resources (not hyphenated)
+- Humvee
+- hydroelectric
+- hydro-interaction
+- hydropower
+- hydrosystem
+- hygiene
+- hyper: compound forms are closed
+
+## I {#i}
+
+- Ibero-American
+- ibid. (see also Footnotes and other references)
+- ill: compound adjectives are hyphenated only when preceding a noun
+  - (e.g. an ill-designed project; the project is ill designed) except:
+- ill-founded, ill-treated
+- \*\*ill-treatment
+- imperilled
+- inasmuch as
+- income generation (noun)
+- income-generation (adj.)
+- in-depth (adj.)
+- indexes (lists in a book), indices (statistical)
+- indispensable
+- information and communications technology
+- information-sharing
+- infrared
+- in-house
+- initialled, initialling
+- in-kind (adj.)
+- in-migration
+- inpatient
+- in-person (adj.)
+- inquire, inquiry (referring to a formal
+  - investigation) (cf. enquire)
+- in-session (adj.)
+- in situ
+- insofar
+- insourcing
+- install, installation, instalment
+- instil
+- institution-building
+- interactive
+- inter-agency
+- inter alia
+- inter-American
+- inter-annual
+- interbank
+- inter-birth
+- intercommunal
+- intercountry
+- intercultural
+- interdenominational
+- interdepartmental
+- interdependence
+- interdisciplinary
+- interdivisional
+- \*\*inter-ethnic
+- interfaith
+- interfamily
+- intergenerational
+- intergovernmental
+- \*intergroup
+- inter-industry
+- inter-institutional
+- interlink, interlinkage
+- \*interministerial
+- inter-mission (between missions)
+- intermission (between acts)
+- \*\*Internet
+- inter-office
+- inter-organizational
+- interparliamentary
+- interprovincial
+- interracial
+- interregional
+- interrelate
+- interreligious
+- intersectoral
+- intersession (noun), intersessional
+- interspace
+- inter-State (between countries)
+- interstate (between states)
+- inter-unit
+- intifada
+- in toto
+- intra: compound forms are closed except:
+  - intra-African
+  - intra-agency
+  - intra-industry
+  - intra-mission
+  - intra-State (within a country)
+  - intra-urban
+- in vitro
+- inward (adj.)
+- inwards (adv.)
+- ipso facto
+- iSeek
+- IV drug user
+
+## J {#j}
+
+|  |  |
+|---|---|
+| jail<br>jihad, jihadi<br>Judaize | \*\*\*judgment (see<br>    also [Capitalization in English](capitalization.md))<br>\*\*\*judgmental<br>jump-start |
+
+## K {#k}
+
+|  |  |
+|---|---|
+| keffiyeh<br>kick-start<br>kilogram (kg)<br>kilometre (km)<br>kilovolt-ampere (kVA) | kilowatt (kW)<br>kilowatt-hour (kWh)<br>\*kin group<br>know-how<br>knowledge-sharing |
+
+## L {#l}
+
+- labelled, labelling
+- laborious
+- labour
+- labour-force (adj.)
+- labour-market (adj.)
+- laissez-faire
+- laissez-passer (singular and plural)
+- land-grabbing
+- landholder
+- landline
+- landlocked
+- landmine
+- landowner
+- land use (noun)
+- land-use (adj.)
+- laserdisc
+- lawmaker
+- \*lawmaking
+- lay off (verb)
+- layoff (noun)
+- lead time
+- lead-up (noun)
+- learned (not “learnt”)
+- least developed countries
+- \*\*lèse-majesté
+- letter of assist
+- leukaemia
+- levelled, levelling
+- liaison
+- liberalization
+- liberalize
+- licence (noun)
+- license (verb)
+- Lieutenant General
+- life cycle
+- lifelong
+- life-saving
+- lifespan
+- lifestyle
+- life table (noun)
+- life-table (adj.)
+- lifetime
+- litre
+- liveable
+- live birth
+- live-born
+- living space
+- local area network
+- log in, log out (verb)
+- login, logout (noun)
+- log on, log off (verb)
+- logon, logoff (noun)
+- long-standing (adj.)
+- long-term (adj.)
+- loophole
+- Lotus Notes
+- \*\*lower-case (adj.)
+- low-level (adj.)
+- lump sum (noun)
+- \*\*lump-sum (adj.)
+
+## M {#m}
+
+- machine gun
+- machine-readable
+- macro: compound forms are closed except:
+  - macro level (noun), macro-level (adj.)
+  - (note: "macro" in this case is a
+  - stand-alone word, not a prefix)
+  - macro-unit
+- mainframe
+- mainland
+- Major General
+- mandate holder
+- man-hour (preferred: person-hour)
+- man-made (preferred: human-caused,
+  - human-made)
+- manoeuvre
+- man-portable air defence system (not MANPADS)
+- Māori
+- marketplace
+- market town
+- mark up (verb)
+- markup (noun)
+- marriage timing (noun)
+- marriage-timing (adj.)
+- marshal
+- marshalled, marshalling
+- master plan
+- materiel
+- matrices
+- meagre
+- meantime
+- meanwhile
+- medium-sized (adj.)
+- medium-variant (adj.)
+- meeting place
+- \*megacity
+- megajoule (MJ)
+- megavolt (MV)
+- megavolt-ampere (MVA)
+- member-days
+- memorandums
+- \*\*Mesoamerica
+- \*\*Messrs. (in English)
+- meter (instrument)
+- metre (unit of length)
+- micro: compound forms are closed except:
+  - micro-business
+  - micro-entrepreneur
+  - micro-environment
+  - micro-event
+  - micro level (noun), micro-level (adj.)
+  - (note: "micro" in this case is a
+  - stand-alone word, not a prefix)
+- mid-1990s
+- mid-air
+- midday
+- middleman (preferred: intermediary)
+- midlife (noun and adj.)
+- mid-ocean, mid-oceanic
+- midpoint
+- \*\*mid-range
+- \*midseason
+- \*midsize
+- midsummer
+- midterm
+- midway
+- midweek
+- midwife
+- midwinter
+- \*\*midyear
+- mileage
+- milieux
+- millenniums
+- mindset
+- mine clearance (noun)
+- mine-clearance (adj.)
+- minefield
+- minimize
+- misspelled (not “misspelt”)
+- misstep
+- \*Mmes. (in English)
+- modelled, modelling
+- modus operandi
+- \*\*money-laundering (noun and adj.)
+- moneylender, moneylending
+- money market (noun and adj.)
+- moneys
+- moratoriums
+- mores
+- mould
+- movable
+- \*\*Mr.
+- \*\*Mrs.
+- \*\*Ms.
+- Muhammad (the Prophet)
+- mujahid (plural: \*\*\*mujahidin)
+- multi-access
+- multi-bilateral
+- multibillion
+- multi-cause
+- multicellular
+- \*\*multi-centred
+- multichannel
+- multi-client
+- multicoloured
+- multi-country
+- multicultural
+- multidimensional
+- multidisciplinary
+- \*\*multi-donor
+- multi-ethnic
+- \*\*multi-faith
+- multifocal
+- multifunctional
+- multigenerational
+- multigrade
+- multigrain
+- multigravida
+- multi-hazard
+- multi-jurisdictional
+- multilateral
+- multilayer
+- multilevel
+- multilingual
+- multimedia
+- multimillion
+- multinational
+- multipara
+- multipartite
+- multi-partner
+- multiparty
+- multiphase
+- multiplatform
+- multiple-choice (adj.)
+- multipolar
+- multiprocessor
+- \*multipurpose
+- multiracial
+- multisectoral
+- \*\*multi-skilled
+- multi-stakeholder
+- \*multistorey
+- multitalented
+- multitask, multitasker, multitasking
+- multitrack
+- multi-user
+- multi-utility
+- multivendor
+- multi-year
+- Muslim
+- mutatis mutandis
+
+## N {#n}
+
+- nation State
+- nationwide
+- neighbour
+- neonatal
+- netbook
+- neuro: compound forms are closed
+- nevertheless
+- newborn
+- newsfeed
+- newsflash
+- newsgroup
+- news stand
+- newswire
+- newsworthy
+- niqab
+- no-fly zone
+- no-man’s-land
+- non-: compound forms are hyphenated except:
+  - \*\*\*noncommunicable
+  - nonconforming, nonconformist
+  - nondescript
+  - nonfeasance
+- nonetheless
+- non sequitur
+- no one
+- north(ern), north-east(ern), north-west(ern) (a geographical
+  - direction or an area within a country)
+- North(ern) (a continent or major region, e.g. North America,
+  - North Africa, Northern Europe)
+- northward
+- note verbale (plural: notes verbales)
+- novies or noviens
+- nursing home (noun)
+
+## O {#o}
+
+- octies or octiens
+- odour
+- oedema
+- oesophagus
+- offence
+- offensive
+- off-gas
+- offhand
+- off-hours (noun)
+- office holder
+- off-label (adj.)
+- off-limits (adj.)
+- offline
+- offload
+- off-message (adj.)
+- off-peak
+- off-ramp (noun)
+- off-road
+- off season (noun)
+- off-season (adj. and adv.)
+- offset
+- offshore
+- off-site (adj.)
+- offspring (singular and plural)
+- oilfield
+- oil well
+- old age (noun)
+- old-age (adj.)
+- old-growth (adj.)
+- omega-3 fatty acid
+- on-board (adj.) (on a ship or aircraft)
+- onboarding (in human resources)
+- ongoing
+- online
+- on-message (adj.)
+- on-screen
+- onshore
+- on-site (adj.)
+- onward (adj. and adv.)
+- op-ed (noun and adj.)
+- ordinance (law)
+- ordnance (munitions)
+- organization
+- organization chart (not “organigram(me)” or “organizational chart”)
+- organize
+- outmigration
+- out-of-court (adj)
+- out-of-date (adj.)
+- outpatient
+- outsource
+- out-take (noun)
+- over: compound forms are closed except:
+  - over-elaborate
+  - over-exercise
+  - over-optimistic
+  - over-refine
+- \*overabundant
+- \*\*overrepresent
+
+## P {#p}
+
+- paediatric
+- paedophile
+- panellist
+- paper-smart (adj.)
+- paralyse
+- paramedical
+- paramilitary
+- part-time
+- passer-by (plural: passers-by)
+- payback (noun)
+- payday
+- payroll
+- peacebuilder, peacebuilding
+- peacekeeper, peacekeeping
+- peacekeeping-intelligence (noun and adj.)
+- peacemaker, peacemaking
+- peacetime
+- \*penholder
+- per annum
+- per capita
+- per cent
+- per diem
+- perinatal
+- peri-urban
+- per se
+- person-day, person-hour
+- phyto: combinations are closed
+- place name
+- plebiscite
+- plough
+- \*\*P.O. Box
+- policyholder
+- policymaker, policymaking
+- policy-setting
+- polycrisis
+- post-adolescent
+- post-cold-war
+- postdoctoral
+- post-feminist
+- postglacial
+- postgraduate
+- post-industrial
+- post-marital
+- postmillennial
+- postmodern
+- post-mortem
+- \*postnatal
+- \*\*post-neonatal
+- postnuptial
+- post-operative
+- post-partum
+- post-session
+- post-war
+- power plant
+- power-sharing
+- practice (noun)
+- practise (verb)
+- pre-adolescent
+- pre-book
+- \*\*précis
+- précis-writer, précis-writing
+- preconceive
+- precondition
+- pre-construction
+- \*predate
+- predawn
+- predeployment
+- pre-eclampsia
+- pre-embryo
+- pre-eminent
+- pre-empt
+- pre-establish
+- pre-exist
+- pre-ignition
+- pre-industrial
+- pre-initiation countries
+- pre-inspection
+- pre-investment
+- premarital
+- \*premodern
+- prenatal
+- pre-owned
+- pre-package
+- pre-plan
+- pre-position
+- pre-press
+- pre-production
+- pre-qualify
+- pre-record
+- \*preregister
+- pre-release
+- preschool
+- \*prescreen
+- pre-sell
+- pre-session
+- President-elect
+- pretence
+- \*pretrial (but Pre-Trial Chamber
+  - of the International Criminal Court)
+- pre-war
+- prima facie
+- principal (first in rank) (noun and adj.)
+- principle (fundamental truth) (noun)
+- printout
+- private sector (not hyphenated)
+- privatization
+- privatize
+- procès-verbal (plural: procès-verbaux)
+- pro-choice
+- procyclical
+- program (computing only) (noun and verb)
+- programme (noun and verb)
+- pronatalism, pronatalist
+- proofread, proofreader
+- pro rata
+- prorate
+- pro tempore
+- psycho: compound forms are closed
+- public sector (not hyphenated)
+
+## Q {#q}
+
+|  |  |
+|---|---|
+| \*\*qadi<br>quater<br>quinquies or quinquiens | \*\*\*Qur'an<br>\*\*Qur'anic |
+
+## R {#r}
+
+- radioactive
+- radioisotope
+- rain-fed
+- rainforest
+- rainwater
+- raison d'être
+- range area
+- rangeland(s)
+- rapprochement
+- rateable
+- ratepayer
+- re-: combinations are closed except:
+  - re-advertise
+  - re-edit
+  - re-educate
+  - re-elect
+  - re-emerge
+  - re-emphasize
+  - re-employ
+  - re-enact
+  - re-enforce
+  - re-enfranchise
+  - re-engage
+  - re-engineer
+  - re-enrol
+  - re-enter
+  - re-equip
+  - re-erect
+  - re-establish
+  - re-evaluate
+  - re-examine
+  - re-export
+  - re-recruitment
+- read-only memory
+- \*\*readout (noun)
+- record-breaking (adj.)
+- referendums
+- reflection
+- refoulement
+- regime
+- region-wide
+- \*reroute
+- results-based (adj.)
+- results-oriented (adj.)
+- résumé
+- retro: combinations are closed
+- reversible
+- right to life (noun)
+- right-to-life (adj.)
+- rights holder (not hyphenated)
+- rigorous
+- rigour
+- risk reduction (noun and adj.)
+- riverbed
+- river water
+- roadbed
+- roadblock
+- road map
+- roadwork
+- rollback (verb and noun)
+- roll call (noun)
+- roll-call (adj.)
+- roll forward ( verb and noun)
+- roll out (verb)
+- roll-out (noun)
+- roll over (verb)
+- rollover (noun)
+- round table (noun)
+- round-table (adj.)
+- routing
+- \*\*RU486
+- rule of law (not hyphenated)
+- rumour
+- \*\*run-off (noun and adj.)
+- \*\*run-up (noun)
+- rural-urban (demographic movement)
+- rural/urban (comparison)
+
+## S {#s}
+
+- safe-period method
+- salary earner
+- saleable
+- salt water (noun)
+- saltwater (adj.)
+- satphone
+- savings bank
+- sceptic, sceptical, scepticism
+- school-age (adj.)
+- schoolbook
+- schoolchild
+- \*school day
+- schooldays
+- schoolroom
+- schoolteacher
+- schoolwork
+- seabed
+- \*seafloor
+- sea level (not hyphenated)
+- seaport
+- seawater
+- \*\*Secretary-General (plural: Secretaries-General)
+- sectoral
+- security sector (not hyphenated)
+- self-: compound forms are hyphenated
+- sell off (verb)
+- sell-off (noun)
+- semi-annual (twice a year)
+- semi-automatic
+- semi-autonomous
+- semicircle
+- semicolon
+- semiconductor
+- semi-conscious
+- semi-cylinder
+- semi-darkness
+- semi-detached
+- semi-final
+- semi-finished
+- semi-independent
+- semi-invalid
+- semi-literate
+- semi-monthly (twice a month) (see also "Ambiguous terms" under Numbers, dates and time)
+- semi-official
+- semi-permanent
+- semi-precious
+- semi-professional
+- semi-retired
+- semi-rigid
+- semi-skilled
+- semi-solid
+- semi-trailer
+- semi-weekly (twice a week) (see also "Ambiguous terms" under Numbers, dates and time)
+- septicaemia
+- septies or septiens
+- seroprevalence
+- serostatus
+- set back (verb)
+- setback (noun)
+- set up (verb)
+- set-up (noun)
+- sewage (waste matter)
+- sewerage (system of drains)
+- sexies or sexiens
+- sex-selective (adj.)
+- shake up (verb)
+- shake-up (noun)
+- shanty town
+- sharia
+- sheikh
+- shellfire
+- Shia
+- Shiite
+- shopkeeper
+- shortcoming
+- shortfall
+- shortlist
+- short-lived
+- side effect
+- signalled, signalling
+- sine qua non
+- single window (noun)
+- single-window (adjective)
+- sizeable
+- size class
+- skilful
+- skill set
+- slow down (verb)
+- slowdown (noun)
+- \*slum dweller
+- small-satellite (adj.)
+- smartphone
+- socio: compound forms are closed
+- soft-walled (adj.)
+- solicitor general (plural: solicitors general)
+- sombre
+- south(ern), south-east(ern), south-west(ern) (a geographical
+  - direction or an area within a country)
+- South(ern), South-East(ern), South-West(ern) (a continent
+  - or major region, e.g. South America, Southern Africa, Southern
+  - Europe, South-East Asia; exception: Association of Southeast
+  - Asian Nations)
+- South-South cooperation
+- southward
+- spatial-profile model
+- specialize
+- speed-dial (verb)
+- speed dial (noun)
+- spelled (not “spelt”)
+- spillover (noun and adj.)
+- stabilization
+- stabilize
+- staff-day, staff-hour
+- staff member
+- stakeholder
+- stalemate
+- standby (noun and adj.)
+- stand-alone (adj.)
+- stand in (verb)
+- stand-in (noun)
+- State-building
+- stationary (not moving)
+- stationery (paper)
+- status-conscious
+- status-of-forces agreement
+- status quo
+- steady-state (adj.)
+- step: compound forms are closed except:
+  - step-parent
+- stillbirth
+- stillborn (adj.)
+- stockbreeder
+- stockbroker
+- stockholder
+- stock market
+- stockpile
+- stocktaking
+- storefront
+- storekeeper
+- storey (of a building)
+- straightforward
+- \*\*strikebreaker
+- strike-slip fault
+- strip-search
+- strived (not "strove" or "striven")
+- \*sub: compound forms are closed except:
+  - sub-account
+  - sub-amendment
+  - sub-aquatic
+  - sub-area
+  - sub-assembly
+  - sub-block
+  - sub-body
+  - sub-bottom
+  - sub-branch
+  - sub-bureau
+  - sub-centre
+  - sub-clan
+  - sub-discipline
+  - sub-element
+  - sub-goal
+  - sub-issue
+  - sub-item
+  - sub-lessee
+  - sub-lessor
+  - \*\*sub-let
+  - sub-office
+  - sub-option
+  - sub-prefect
+  - sub-prefecture
+  - sub-prime
+  - sub-Saharan
+  - sub-seafloor
+  - sub-theme
+  - sub-working group
+  - sub-zero
+- subject matter (not hyphenated)
+- subprogram (computing only)
+- subprogramme
+- \*subunit
+- succour
+- \*\*sulfur (and related words)
+- summarize
+- Sunna (traditional Muslim law)
+- Sunni (adj. and noun, singular and plural)
+- Sunnite
+- \*\*super-Power
+- supersede
+- superstructure
+- supervisor
+- surface water (noun)
+- surface-water (adj.)
+- suspense account
+- syllabuses
+- symposiums
+- system-wide
+
+## T {#t}
+
+- takeover (noun)
+- takfirism, takfirist
+- Taliban
+- targeted, targeting
+- tariff
+- task force
+- taxpayer
+- tear gas (noun)
+- \*\*tear-gas (adj.)
+- \*telehealth
+- telemedicine
+- ter
+- test-ban (adj.)
+- \*\*text-processing
+- text processor
+- therefor (for that purpose)
+- therefore (consequently)
+- think tank
+- time-consuming
+- time deposit
+- time frame
+- \*\*time-horizon
+- timekeeper
+- time lag
+- time limit
+- timeline
+- time period
+- time-release (adj.)
+- timescale
+- time series
+- time sheet
+- \*\*timespan
+- timetable
+- title page
+- ton (i.e. metric ton)
+- topsoil
+- totalled, totalling
+- towards
+- town hall meeting
+- toxaemia
+- tradable
+- trade-off (noun)
+- traffics, trafficked, trafficking
+- \*training ground
+- tranquillity
+- tranquillizer
+- transalpine
+- transatlantic
+- transboundary
+- transcontinental
+- \*\*trans-fat, trans-fatty acid
+- transferable, transference
+- transferred, transferring
+- transgender
+- transglobal
+- transmigrant
+- trans-Pacific
+- transracial
+- transsexual
+- trans-ship, trans-shipment
+- travelled, travelling
+- tripwire
+- troop contributor
+- troop-contributing
+- truth-seeking (noun and adj.)
+- T-shirt
+- tsunamis
+- tunnelled, tunnelling
+- turn around (verb)
+- turnaround (noun)
+- turning point
+- turnkey (adj.)
+- turn off (verb)
+- turn-off (noun)
+- turn out (verb)
+- turnout (noun)
+- turn over (verb)
+- turnover (noun)
+- two-faced
+- twofold
+- typeset, typesetting, typesetter
+- tyre
+
+## U {#u}
+
+- \*\*ulama
+- ultra: compound forms are closed except:
+  - ultra-high frequency (noun)
+  - ultra-high-frequency (adj.)
+  - ultra-processed
+- \*\*under: compound forms are closed except when modifying a hyphenated compound
+- undersecretary
+- \*\*Under-Secretary-General (plural: Under-Secretaries-General)
+- under way
+- uni: compound forms are closed
+- unmistakable
+- update
+- upgrade
+- upper-case (adj.)
+- uproot
+- up-to-date (adj.)
+- upward (adj. and adv.)
+- \*urban dweller
+- urban-rural (demographic movement)
+- urban/rural (comparison)
+- usability
+- usable
+- use-by date
+- use-effectiveness
+- user-friendly
+- username
+- utilize
+- U-turn
+- Uzi
+
+## V {#v}
+
+- vacuum aspiration method
+- vacuum-pack (verb)
+- vacuum-packed (adj.)
+- value added (noun and adj.)
+- value system
+- vapour
+- vari: compound forms are closed
+- V-chip
+- venepuncture
+- versus
+- vice (tool)
+- \*\*Vice-Chair
+- \*\*Vice-President
+- Vice-President-elect
+- vice versa
+- video camera
+- videoconference
+- videodisc
+- video game
+- videographics
+- videography
+- video link
+- video map
+- video on demand
+- videophone
+- video pirate
+- video recorder
+- video recording
+- viewfinder
+- viewpoint
+- vigorous
+- vigour
+- vis-à-vis
+- vitamin A
+- voicemail
+- voice-over (noun and adj.)
+- voiceprint
+
+## W {#w}
+
+- wage earner
+- wage-earning
+- wagon
+- Wahhabi
+- walkie-talkie
+- walk in (verb)
+- walk-in (adj.)
+- walkout (noun)
+- walk-through (noun)
+- wallboard
+- wallchart
+- Walloon
+- waqf
+- war chest
+- war crime
+- war criminal
+- war cry
+- war game
+- warhead
+- warlike
+- warlord
+- warmonger
+- warpath
+- warplane
+- warship
+- wartime
+- war-torn (adj.)
+- washout (noun)
+- washtub
+- \*\*wastewater
+- Washington, D.C.
+- watch list (noun and adj.)
+- watchtower
+- waterbird
+- water birth
+- waterboard, waterboarding
+- waterborne
+- water cannon
+- watercourse
+- watercraft
+- waterfowl
+- waterfront
+- waterhole
+- water level
+- waterline
+- waterlogged
+- water main
+- watermark
+- watermill
+- water power
+- waterproof
+- water-repellant (adj.)
+- water-resistant (adj.)
+- watershed
+- water supply
+- water table
+- watertight
+- water torture
+- water tower
+- waterway
+- waterworks
+- watt-hour
+- wattmeter
+- wavelength
+- weather-beaten
+- weatherproof
+- webcam
+- webcast
+- web hosting
+- webinar
+- webisode
+- weblink
+- weblog
+- webmail
+- web map
+- webmaster
+- web page
+- web ring
+- website
+- webspace
+- weekday
+- weekend
+- well: compound adjectives are hyphenated only when preceding a noun
+  - (e.g. a well-designed project; the project is well designed)
+- well-being
+- well-to-do
+- well water (noun)
+- well-wisher
+- west(ern) (a geographical direction or an area
+  - within a country)
+- West(ern) (a major region, e.g. West Africa,
+  - Western Europe)
+- west-north-west, west-south-west
+- westward
+- wetland(s)
+- wet lease
+- wheelchair
+- while (not “whilst”)
+- whistle-blower, whistle-blowing
+- whiteboard
+- white list (noun)
+- \*whitelist (verb)
+- whitewash
+- wholegrain
+- wholehearted
+- wholewheat
+- wide area network
+- wideband
+- \*\*widebody
+- Wi-Fi
+- wild card
+- wildcat
+- wildfire
+- wildfowl
+- wilful
+- windblown
+- windborne
+- windbreak
+- windburn
+- wind chill
+- windfall
+- windowpane
+- windowsill
+- windproof
+- windscreen
+- windshield
+- windstorm
+- windswept
+- winegrower
+- winemaker
+- wingspan
+- wingspread
+- win-win (adj.)
+- wiretap, wiretapping, wiretapper
+- witchcraft
+- witch-hunt
+- withhold
+- woman-month, woman-year
+- woodblock
+- woodchip
+- woodpile
+- woodshed
+- woodsmoke
+- woodwork
+- woodyard
+- word-processing
+- word processor
+- work around (verb)
+- workaround (noun)
+- workday
+- workflow
+- workforce
+- \*\*work-hour
+- workload
+- workload-sharing
+- work out (verb)
+- workout (noun)
+- work permit
+- workplace
+- \*\*workplan
+- workroom
+- worksheet
+- workshop
+- worksite
+- workspace
+- workstation
+- workstream
+- workweek
+- worldwide
+- would-be (adj.)
+- write down (verb)
+- write-down (noun)
+- write in (verb)
+- write-in (noun)
+- write off (verb)
+- write-off (noun)
+- write-protect, write-protected
+- write up (verb)
+- write-up (noun)
+- wrongdoing
+
+## X {#x}
+
+|  |  |
+|---|---|
+| X chromosome<br>xeno: compound forms are closed<br>X factor<br>X-ray |  |
+
+## Y {#y}
+
+|  |  |
+|---|---|
+| yarmulke<br>Y chromosome<br>\*year-on-year<br>year-round (adj.)<br>YouTube |  |
+
+## Z {#z}
+
+- zero gravity
+- zeros
+- zero-sum (adj.)
+- \*\*zero-tolerance (adj.)
+- zigzag
+- zoogeography
+- zookeeper
+- zoonosis
+- zooplankton
+- Z particle

@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+snapshots/pdf/
+site/_site/
+site/.quarto/
+site/en/
+site/llms*.txt
+dist/
+.DS_Store
+site/_sidebar.yml

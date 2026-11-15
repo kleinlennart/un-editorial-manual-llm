@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: _site
+
+metadata-files:
+  - _sidebar.yml
+
+website:
+  title: "UN Editorial Manual · LLM-ready"
+  site-url: https://kleinlennart.github.io/un-editorial-manual-llm/
+  repo-url: https://github.com/kleinlennart/un-editorial-manual-llm
+  repo-actions: [issue]
+  search:
+    location: sidebar
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: llms.txt
+        text: llms.txt
+      - href: llms-full.txt
+        text: llms-full.txt
+    right:
+      - icon: github
+        href: https://github.com/kleinlennart/un-editorial-manual-llm
+  page-footer:
+    center: >
+      Unofficial resource. Not produced or endorsed by the United Nations.
+      Content reproduced from the
+      [United Nations Editorial Manual](https://www.un.org/dgacm/en/content/editorial-manual),
+      © United Nations. Always check the source.
+
+format:
+  html:
+    theme:
+      light: [cosmo, custom.scss]
+      dark: [darkly, custom.scss]
+    toc: true
+    toc-depth: 2
+    anchor-sections: true
+    link-external-newwindow: true

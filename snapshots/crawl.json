@@ -1,0 +1,553 @@
+{
+  "index_url": "https://www.un.org/dgacm/en/content/editorial-manual",
+  "pages": [
+    {
+      "slug": "abbreviations",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/abbreviations",
+      "status": 200,
+      "title": "Abbreviations",
+      "group": "Style",
+      "body_sha256": "e5b0b07120179153e97f317a00f8cb807d38aa8e978835145d8bf2c5ea270fcd",
+      "links": []
+    },
+    {
+      "slug": "abouteditors",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/abouteditors",
+      "status": 200,
+      "title": "About United Nations editors | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "80cadcfe8806e0ed2789dfdf5648d5dd796e3fae7680bc4cdbb1747a8b054fff",
+      "links": []
+    },
+    {
+      "slug": "addenda",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/addenda",
+      "status": 200,
+      "title": "Addenda",
+      "group": "Basic documents",
+      "body_sha256": "564e41ab1a16a7ee5f212dad7b2e0ff73fd0bda478d2a74497794b739048e29a",
+      "links": []
+    },
+    {
+      "slug": "capitalization",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/capitalization",
+      "status": 200,
+      "title": "Capitalization in English",
+      "group": "Style",
+      "body_sha256": "9838498951deb76c9d64dca799582fdee4cd48f45c7619f2657cea7833b55364",
+      "links": []
+    },
+    {
+      "slug": "communications",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/communications",
+      "status": 200,
+      "title": "Communications",
+      "group": "Basic documents",
+      "body_sha256": "4792516ea1c2ea97f3af824b85e46a1d5eb42c7af3d08150505d9ae18fdf4a22",
+      "links": [
+        "docs-agendas",
+        "footnotes/chap-09"
+      ]
+    },
+    {
+      "slug": "contact",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/contact",
+      "status": 200,
+      "title": "Contact the editors | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "316fb0f0e36dcc23d7963a0483764d925c302f2e7232d78a8d1d3365280d7090",
+      "links": []
+    },
+    {
+      "slug": "corrigenda",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/corrigenda",
+      "status": 200,
+      "title": "Corrigenda and reissues",
+      "group": "Basic documents",
+      "body_sha256": "f48a7179acbbedb1ee5777c0a76fb0a74c6b3d7a4f51af3a0077e5d1b74694f0",
+      "links": [
+        "footnotes/chap-03"
+      ]
+    },
+    {
+      "slug": "country-names",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/country-names",
+      "status": 200,
+      "title": "Country names and currencies",
+      "group": "Editorial guidelines",
+      "body_sha256": "53da9cfe44971620ad670a05a248f8c8eed02d3f6f3813019a3dbddbf44a136d",
+      "links": [
+        "policy-questions"
+      ]
+    },
+    {
+      "slug": "docs-agendas",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/docs-agendas",
+      "status": 200,
+      "title": "Documents relating to agendas of principal organs",
+      "group": "Basic documents",
+      "body_sha256": "a98a45d2ce8067df436a1464ce97bcb68089d5a7a4e374c792c830157d4c5397",
+      "links": []
+    },
+    {
+      "slug": "footnotes/chap-01",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/footnotes/chap-01",
+      "status": 200,
+      "title": "I. Introduction | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "a6ccad64949dd7b555c4b826806cfc98d3b8140954019d632b2195bb4df64d72",
+      "links": []
+    },
+    {
+      "slug": "footnotes/chap-02",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/footnotes/chap-02",
+      "status": 200,
+      "title": "II. General instructions on footnotes and text notes | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "34edaa2840d6ef39dc5aca1b2eae7650ab2671140ecde1a2d668aa8370b1565b",
+      "links": [
+        "footnotes/chap-05",
+        "footnotes/chap-07",
+        "footnotes/chap-08",
+        "footnotes/chap-09",
+        "footnotes/chap-10"
+      ]
+    },
+    {
+      "slug": "footnotes/chap-03",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/footnotes/chap-03",
+      "status": 200,
+      "title": "III. United Nations sources | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "392e05cd8ff65abaef66dfc46fb6c3e1e20df63d5745bcfd7e097cceab08b042",
+      "links": [
+        "footnotes/chap-04",
+        "footnotes/chap-10",
+        "res-dec-sys-ident"
+      ]
+    },
+    {
+      "slug": "footnotes/chap-04",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/footnotes/chap-04",
+      "status": 200,
+      "title": "IV. Outside sources | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "ab2202193aec15ccc0858046575bdcd299c49153be025e83f1ccb3d29102aee1",
+      "links": [
+        "footnotes/chap-10"
+      ]
+    },
+    {
+      "slug": "footnotes/chap-05",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/footnotes/chap-05",
+      "status": 200,
+      "title": "V. Repeated references | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "d5d1f49beab3b3464eb38f0c44b2a5a0e48b1604d8695681b9fa8db1ea3f9265",
+      "links": [
+        "footnotes/chap-07",
+        "footnotes/chap-09"
+      ]
+    },
+    {
+      "slug": "footnotes/chap-06",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/footnotes/chap-06",
+      "status": 200,
+      "title": "VI. Permission footnotes | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "973f69cebe17a1b9217f05e33f12a5b5847aff55899e290c27ee365690eb3c4c",
+      "links": []
+    },
+    {
+      "slug": "footnotes/chap-07",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/footnotes/chap-07",
+      "status": 200,
+      "title": "VII. Explanatory footnotes | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "7178530bcbfc093679f2f6568644c9daf54489225c5b3546b9d385e174e23783",
+      "links": [
+        "footnotes/chap-10"
+      ]
+    },
+    {
+      "slug": "footnotes/chap-08",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/footnotes/chap-08",
+      "status": 200,
+      "title": "VIII. Cross references | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "8260ac67e680c11eb245fc99041ec2fbce7719e3ac5fad3b3ca30a0148088a71",
+      "links": [
+        "footnotes/chap-09"
+      ]
+    },
+    {
+      "slug": "footnotes/chap-09",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/footnotes/chap-09",
+      "status": 200,
+      "title": "IX. Footnote indicators | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "be170c00edf6c44a3a51494f8028590298dec344b02395a1343570494f6c0a27",
+      "links": []
+    },
+    {
+      "slug": "footnotes/chap-10",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/footnotes/chap-10",
+      "status": 200,
+      "title": "X. Reference lists and bibliographies | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "e6849e3bcbc3e9907f304be0c768b5f76dba240311175356e7c91d989696a822",
+      "links": []
+    },
+    {
+      "slug": "footnotes/index",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/footnotes/index",
+      "status": 200,
+      "title": "Footnotes and other references",
+      "group": "Editorial guidelines",
+      "body_sha256": "e22500fa403ef2facd187a45ef66d9364acbae5799bb610d3dd5af17b5bc2ce7",
+      "links": [
+        "footnotes/chap-01",
+        "footnotes/chap-02",
+        "footnotes/chap-03",
+        "footnotes/chap-04",
+        "footnotes/chap-05",
+        "footnotes/chap-06",
+        "footnotes/chap-07",
+        "footnotes/chap-08",
+        "footnotes/chap-09",
+        "footnotes/chap-10"
+      ]
+    },
+    {
+      "slug": "headings",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/headings",
+      "status": 200,
+      "title": "Headings and subheadings",
+      "group": "Format",
+      "body_sha256": "64a368d9426a9e7ccc53a2c2824e990f3c420ccd6e6204e2f883970c2a2fdd83",
+      "links": [
+        "communications"
+      ]
+    },
+    {
+      "slug": "index",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual",
+      "status": 200,
+      "title": "United Nations Editorial Manual Online | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "0e9748a70c06df46d2fb031267aea1c497c4456f823912199b8004ae312e08c1",
+      "links": [
+        "abbreviations",
+        "abouteditors",
+        "addenda",
+        "capitalization",
+        "communications",
+        "contact",
+        "corrigenda",
+        "country-names",
+        "docs-agendas",
+        "footnotes/index",
+        "headings",
+        "indirect-speech",
+        "instr-prep-docs",
+        "italics",
+        "maps",
+        "mast-cover",
+        "notes-sg",
+        "numbers-dates-time",
+        "onlineref",
+        "para-subpara",
+        "pbis",
+        "policy-questions",
+        "punctuation",
+        "quotations",
+        "reports-intergov-bodies",
+        "res-dec-index",
+        "spelling",
+        "tables",
+        "updates"
+      ]
+    },
+    {
+      "slug": "indirect-speech",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/indirect-speech",
+      "status": 200,
+      "title": "Indirect or reported speech",
+      "group": "Style",
+      "body_sha256": "e41ff4e4cde42db9e4b75976105fda4556a96634edd9bad529b16f139fce00dc",
+      "links": []
+    },
+    {
+      "slug": "instr-prep-docs",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/instr-prep-docs",
+      "status": 200,
+      "title": "Instructions for the preparation of official documents",
+      "group": "Editorial guidelines",
+      "body_sha256": "88d46a50f8782d883be6e7432f9072e84328439a0de83d1a8fb9ba07cc917f8d",
+      "links": [
+        "abbreviations",
+        "headings",
+        "italics",
+        "mast-cover",
+        "quotations"
+      ]
+    },
+    {
+      "slug": "italics",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/italics",
+      "status": 200,
+      "title": "Italics and bold print",
+      "group": "Style",
+      "body_sha256": "35387a6ff5dd545e890aa229d2c5e43e683dd268b390060dff28c3486aff206e",
+      "links": [
+        "res-dec-draft-edit"
+      ]
+    },
+    {
+      "slug": "maps",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/maps",
+      "status": 200,
+      "title": "Maps and figures, including photographs",
+      "group": "Format",
+      "body_sha256": "4507a6b58ce55e9f8929710ae63db163d0b92c234d960d92246e0b34df6ee823",
+      "links": []
+    },
+    {
+      "slug": "mast-cover",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/mast-cover",
+      "status": 200,
+      "title": "Mastheads and cover pages",
+      "group": "Format",
+      "body_sha256": "ac1c7cda2cc0399c524a6c58cdf9b87880c30af3f7b596e69d4031028659a1ba",
+      "links": [
+        "corrigenda",
+        "docs-agendas",
+        "notes-sg"
+      ]
+    },
+    {
+      "slug": "notes-sg",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/notes-sg",
+      "status": 200,
+      "title": "Notes by the Secretary-General",
+      "group": "Basic documents",
+      "body_sha256": "ac9c518431bcf2483d343aacab8c1a3cb2bb37a57413c149905b22ac477b83c8",
+      "links": []
+    },
+    {
+      "slug": "numbers-dates-time",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/numbers-dates-time",
+      "status": 200,
+      "title": "Numbers, dates and time",
+      "group": "Style",
+      "body_sha256": "49991a0efe57c2361c63caff84a3681af5a2804276639777ce41895b5b0c9908",
+      "links": [
+        "punctuation",
+        "res-dec-draft-edit"
+      ]
+    },
+    {
+      "slug": "onlineref",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/onlineref",
+      "status": 200,
+      "title": "Sources of information",
+      "group": "Sources of information",
+      "body_sha256": "fe10cb2d9b71b5a2fb12f4e9fdf014b82a22850456d18097aa424b0f6b36e741",
+      "links": []
+    },
+    {
+      "slug": "para-subpara",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/para-subpara",
+      "status": 200,
+      "title": "Paragraphs and subparagraphs",
+      "group": "Format",
+      "body_sha256": "f19410fda4fcc78bc4f01267eb1fdc140f9e34fcff0e3cf0b05df32aea986a40",
+      "links": []
+    },
+    {
+      "slug": "pbis",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/pbis",
+      "status": 200,
+      "title": "Documents relating to programme budget implications",
+      "group": "Basic documents",
+      "body_sha256": "3123282f2211732eca2e94950eb58d5e40fbfbe3f34075028574d261a26b0f45",
+      "links": []
+    },
+    {
+      "slug": "policy-questions",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/policy-questions",
+      "status": 200,
+      "title": "Policy questions",
+      "group": "Editorial guidelines",
+      "body_sha256": "4061c0c7049bef4ef55096e450d658f45176d0326ba20344a0764e3c15a37709",
+      "links": []
+    },
+    {
+      "slug": "printref",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/printref",
+      "status": 200,
+      "title": "Sources of information: print | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "43183b986b3179d7c3eafea4dcfe2430896bc5734b658d18d2c0f5858264224d",
+      "links": []
+    },
+    {
+      "slug": "punctuation",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/punctuation",
+      "status": 200,
+      "title": "Punctuation",
+      "group": "Style",
+      "body_sha256": "4f091aa8663175c221f9bac69e7a307820de1c9488543a7d745ecada7dc4a077",
+      "links": [
+        "printref",
+        "quotations",
+        "res-dec-index"
+      ]
+    },
+    {
+      "slug": "quotations",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/quotations",
+      "status": 200,
+      "title": "Quotations",
+      "group": "Style",
+      "body_sha256": "5ffdd165ed6b00183384e05ef8a05125b62bc989d0ea6a5f329e5aea2a75db9f",
+      "links": []
+    },
+    {
+      "slug": "reports-intergov-bodies",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/reports-intergov-bodies",
+      "status": 200,
+      "title": "Reports of intergovernmental and expert bodies",
+      "group": "Basic documents",
+      "body_sha256": "1528a7eedcc58c55e76b760e3a9efa4bc289d04437c5021c60ad04438bb7f163",
+      "links": []
+    },
+    {
+      "slug": "res-dec-draft-edit",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/res-dec-draft-edit",
+      "status": 200,
+      "title": "II. Drafting and editing | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "3489bef549ec5b9aa77ce69b4e78bba24586d0168353073fd59e35cf8622c80b",
+      "links": []
+    },
+    {
+      "slug": "res-dec-index",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/res-dec-index",
+      "status": 200,
+      "title": "Resolutions and other formal decisions of United Nations organs",
+      "group": "Basic documents",
+      "body_sha256": "c6f8eb9da4f376e065501cc7cdcc069bb778d6b1b44e4fad0c5c45220cd4c911",
+      "links": [
+        "res-dec-draft-edit",
+        "res-dec-sys-ident"
+      ]
+    },
+    {
+      "slug": "res-dec-sys-ident",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/res-dec-sys-ident",
+      "status": 200,
+      "title": "I. System of identification | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "66e8dd7361e3fb1f1b15cfae0194a68800378d80aa0566040164b0de2383a53a",
+      "links": []
+    },
+    {
+      "slug": "spelling",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/spelling",
+      "status": 200,
+      "title": "Spelling",
+      "group": "Style",
+      "body_sha256": "942985f9d67498051faf9eb85c80b0342883272c51d7b3660211d4788f1b0dc3",
+      "links": []
+    },
+    {
+      "slug": "tables",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/tables",
+      "status": 200,
+      "title": "Tables",
+      "group": "Format",
+      "body_sha256": "690c1e461eb465011cdf8f590096a2b3f0a13ce19a34ca30de9eff0db817a6f1",
+      "links": [
+        "abbreviations",
+        "numbers-dates-time"
+      ]
+    },
+    {
+      "slug": "updates",
+      "url": "https://www.un.org/dgacm/en/content/editorial-manual/updates",
+      "status": 200,
+      "title": "Updates | Department for General Assembly and Conference Management",
+      "group": null,
+      "body_sha256": "c1be178e1dde2cc22f0adea62e65732e3896574fe60d7c935f09cb52cd119063",
+      "links": [
+        "abbreviations",
+        "addenda",
+        "capitalization",
+        "communications",
+        "corrigenda",
+        "country-names",
+        "docs-agendas",
+        "footnotes/chap-02",
+        "footnotes/chap-03",
+        "footnotes/chap-04",
+        "footnotes/chap-05",
+        "footnotes/index",
+        "headings",
+        "indirect-speech",
+        "instr-prep-docs",
+        "italics",
+        "maps",
+        "mast-cover",
+        "numbers-dates-time",
+        "onlineref",
+        "para-subpara",
+        "pbis",
+        "policy-questions",
+        "punctuation",
+        "quotations",
+        "res-dec-index",
+        "spelling",
+        "tables"
+      ]
+    }
+  ],
+  "pdfs": [
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/dgacm_sub_guide.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/dgacm_sub_guide_final_6.5.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/em_article_h1_467-472.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/em_article_h4_487-488.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/em_article_h_478-485.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/em_article_h_503-511.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/ga57_decisions401_501.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model10_notes.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model11_notes.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model1_corr.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model2_corr.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model3_corr.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model3_notes.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model4_corr.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model4_notes.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model5_corr.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model5_notes.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model6_corr.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model6_notes.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model7_corr.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model7_notes.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model8.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model8_corr.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model8_notes.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model9_corr.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model9_notes.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model_mast21.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/model_treatybody.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/reissuemodel10.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/reissuemodel12.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/reissuemodel13.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/reissuemodel_11.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/s_inf_19_rev1_add1.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/spell_print_oct2026.pdf",
+    "https://www.un.org/dgacm/sites/www.un.org.dgacm/files/Documents_Editorial_manual/unov-dgb-22-odg-edb-22.pdf"
+  ],
+  "errors": []
+}

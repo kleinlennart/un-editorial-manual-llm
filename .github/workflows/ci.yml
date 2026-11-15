@@ -1,0 +1,21 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync --frozen
+      - run: uv run pytest -q
+      # Generated files must match what the converter produces from the committed snapshots.
+      - name: Regenerate from snapshots and check for drift
+        run: |
+          uv run unem build
+          git diff --exit-code -- content manifest.json llms.txt llms-full.txt data/updates.json
+      - run: uv run unem validate --no-git
